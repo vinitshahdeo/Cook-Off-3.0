@@ -32,3 +32,21 @@
 | Medium | 20 Marks |
 | Hard | 30 Marks |
 | Expert/Advance | 50 Marks |
+
+### Related Repositories
+
+- [Cook Off 2.0](https://github.com/vinitshahdeo/CookOff)
+- [Cook Off 4.0](https://github.com/vinitshahdeo/CookOff-4.0)
+
+
+### Problem Setter - [Vinit Shahdeo](https://www.hackerrank.com/vinitshahdeo)
+
+[![Generic badge](https://img.shields.io/badge/Hacker-Rank-teal.svg?style=for-the-badge)](https://www.hackerrank.com/vinitshahdeo)
+
+#### Follow me on **[Hackerrank](https://www.hackerrank.com/vinitshahdeo)** for more updates.
+
+<hr>
+
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/CookOff.svg)](https://github.com/vinitshahdeo/CookOff/blob/master/LICENSE) 
+[![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/CookOff.svg)](https://github.com/vinitshahdeo/CookOff/network)
+[![HackerRank followers](https://img.shields.io/badge/Follow-Me-yellow.svg?label=Follow)](https://www.hackerrank.com/vinitshahdeo) [![CodeChef VIT](https://img.shields.io/badge/CodeChef-VIT-red.svg)](https://www.facebook.com/codechefvituniversity/) [![Cook Off](https://img.shields.io/badge/Cook-OFF-deepskyblue.svg)](https://github.com/vinitshahdeo/CookOff-4.0) [![GraVITas](https://img.shields.io/badge/graVITas-2016-coral.svg)](https://github.com/vinitshahdeo/CookOff-4.0) 
