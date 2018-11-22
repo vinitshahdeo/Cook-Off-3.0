@@ -5,6 +5,8 @@
 
 #### **Cook Off** is a seven hour long competitive coding event organised annually by **[CodeChef VIT Chapter](https://www.facebook.com/codechefvituniversity/)**. This year the chapter is hosting the third version of the event on Hackerrank. The participants will be given the problem statements along with the expected output format. The participants will have to write a code for the same and based on their overall accuracy.
 
+#### [Click](https://www.hackerrank.com/cook-off-3-0) to view contest on HackerRank.
+
 ### Instructions
 
 - All the challenges will have a predetermined score. 
@@ -47,4 +49,4 @@
 
 <hr>
 
-[![HackerRank followers](https://img.shields.io/badge/Follow-Me-yellow.svg?label=Follow)](https://www.hackerrank.com/vinitshahdeo) [![CodeChef VIT](https://img.shields.io/badge/CodeChef-VIT-red.svg)](https://www.facebook.com/codechefvituniversity/) [![Cook Off](https://img.shields.io/badge/Cook-OFF-deepskyblue.svg)](https://github.com/vinitshahdeo/CookOff-4.0) [![GraVITas](https://img.shields.io/badge/graVITas-2017-coral.svg)](https://github.com/vinitshahdeo/CookOff-4.0) 
+[![View Contest](https://img.shields.io/badge/View-Contest-dodgerblue.svg)](https://www.hackerrank.com/cook-off-3-0) [![HackerRank followers](https://img.shields.io/badge/Follow-Me-yellow.svg?label=Follow)](https://www.hackerrank.com/vinitshahdeo) [![CodeChef VIT](https://img.shields.io/badge/CodeChef-VIT-red.svg)](https://www.facebook.com/codechefvituniversity/) [![Cook Off](https://img.shields.io/badge/Cook-OFF-deepskyblue.svg)](https://github.com/vinitshahdeo/CookOff-4.0) [![GraVITas](https://img.shields.io/badge/graVITas-2017-coral.svg)](https://github.com/vinitshahdeo/CookOff-4.0) 
