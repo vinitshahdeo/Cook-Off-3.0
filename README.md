@@ -3,7 +3,7 @@
 
 ## Competitive Coding Event organised by CodeChef Student Chapter of VIT University during graVITas'17.
 
-#### **Cook Off** is a seven hour long competitive coding event organised annually by **[CodeChef VIT Chapter](https://www.facebook.com/codechefvituniversity/)**. This year the chapter is hosting the third version of the event on Hackerrank. The participants will be given the problem statements along with the expected output format. The participants will have to write a code for the same and based on their overall accuracy.
+**Cook Off** is a seven hour long competitive coding event organised annually by **[CodeChef VIT Chapter](https://www.facebook.com/codechefvituniversity/)**. This year the chapter is hosting the third version of the event on Hackerrank. The participants will be given the problem statements along with the expected output format. The participants will have to write a code for the same and based on their overall accuracy.
 
 #### [Click](https://www.hackerrank.com/cook-off-3-0) to view contest on HackerRank.
 
