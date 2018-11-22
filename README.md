@@ -1,4 +1,4 @@
-# Cook Off 3.0
+# Cook Off 3.0 - [CodeChef VIT](https://www.facebook.com/codechefvituniversity/)
 [![Generic badge](https://img.shields.io/badge/Cook-Off-dodgerblue.svg?style=for-the-badge)](https://www.hackerrank.com/cook-off-3-0) [![Generic badge](https://img.shields.io/badge/CODECHEF-VITVELLORE-teal.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/) [![Generic badge](https://img.shields.io/badge/graVITas-2016-crimson.svg?style=for-the-badge)](http://www.vit.ac.in/files/gravitas18/home.html) [![Generic badge](https://img.shields.io/badge/CODING-CHALLENGES-orange.svg?style=for-the-badge)](https://www.hackerrank.com/cook-off-3-0)
 
 ## Competitive Coding Event organised by CodeChef Student Chapter of VIT University during graVITas'17.
