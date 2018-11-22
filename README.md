@@ -43,7 +43,7 @@
 
 ### Problem Setter - [Vinit Shahdeo](https://www.hackerrank.com/vinitshahdeo)
 
-[![HackerRank](https://img.shields.io/badge/Hacker-Rank-crimson.svg?style=for-the-badge)](https://www.hackerrank.com/vinitshahdeo)
+[![HackerRank](https://img.shields.io/badge/Hacker-Rank-blue.svg?style=for-the-badge)](https://www.hackerrank.com/vinitshahdeo)
 
 #### Follow me on **[Hackerrank](https://www.hackerrank.com/vinitshahdeo)** for more updates.
 
